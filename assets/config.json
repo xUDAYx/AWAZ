@@ -1,0 +1,18 @@
+{
+  "theme": {
+    "file": null,
+    "class": "xiaobaiyuan/theme_brief"
+
+  },
+  "plugins": [
+    "Elevenlabs-TTS"
+  ],
+  "discord_presence": false,
+  "lang": {
+    "override": false,
+    "selected_lang": "en_US"
+  },
+  "flask_server": false,
+  "version": "3.1.0",
+  "fake_gpu": false
+}
